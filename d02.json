@@ -1,0 +1,6002 @@
+[
+ {
+  "min": 13,
+  "max": 17,
+  "char": "s",
+  "pass": "ssssssssssssgsssj"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "p",
+  "pass": "pnlzhcppvl"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "z",
+  "pass": "zzbwrv"
+ },
+ {
+  "min": 7,
+  "max": 15,
+  "char": "w",
+  "pass": "wwwwwcqwwwwwwwww"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "h",
+  "pass": "hhhhhhhhsh"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "l",
+  "pass": "mtrkqfllrglll"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "t",
+  "pass": "nntt"
+ },
+ {
+  "min": 10,
+  "max": 14,
+  "char": "g",
+  "pass": "svgggggfhqggghlg"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "x",
+  "pass": "djxxxpmcxx"
+ },
+ {
+  "min": 1,
+  "max": 10,
+  "char": "z",
+  "pass": "ztzzzgzzzz"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "j",
+  "pass": "jjjjj"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "c",
+  "pass": "fbhnsccbc"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "q",
+  "pass": "thql"
+ },
+ {
+  "min": 15,
+  "max": 18,
+  "char": "w",
+  "pass": "tcwzpwzfwwqftvczbw"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "l",
+  "pass": "lblwblbmllqnlbl"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "b",
+  "pass": "bvbfnbb"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "f",
+  "pass": "ffgzf"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "c",
+  "pass": "cctcccccc"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "k",
+  "pass": "szkgsk"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "n",
+  "pass": "nqvnmgnqnsxfn"
+ },
+ {
+  "min": 2,
+  "max": 10,
+  "char": "s",
+  "pass": "dsfsbsssltss"
+ },
+ {
+  "min": 12,
+  "max": 14,
+  "char": "s",
+  "pass": "ssskrssssssfsxpsqsp"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "j",
+  "pass": "jjjjjjjjjjjjjjjj"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "l",
+  "pass": "jllclhllkgcpljzwk"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "f",
+  "pass": "fsffwffbffbfff"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "s",
+  "pass": "xtzscxsstcss"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "h",
+  "pass": "hmnhshhhhqhrthmh"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "x",
+  "pass": "xxxxxx"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "m",
+  "pass": "mcmmmktmtmmmmm"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "r",
+  "pass": "grrprrsmr"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "v",
+  "pass": "vvvvvvvvvvvvvvwdv"
+ },
+ {
+  "min": 2,
+  "max": 14,
+  "char": "j",
+  "pass": "jmjdbhjjjjjjjxnjj"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "r",
+  "pass": "rrwrrrrrr"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "b",
+  "pass": "wbbcbvbtbbbbb"
+ },
+ {
+  "min": 2,
+  "max": 9,
+  "char": "r",
+  "pass": "rrtjlplkrgmrrrrxq"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "s",
+  "pass": "sssshsmsssss"
+ },
+ {
+  "min": 2,
+  "max": 14,
+  "char": "t",
+  "pass": "qzxxvthtthtthv"
+ },
+ {
+  "min": 2,
+  "max": 11,
+  "char": "p",
+  "pass": "pvlsppwmgcspl"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "s",
+  "pass": "dsjqsshdssbssstsssss"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "k",
+  "pass": "tkkkpkkklk"
+ },
+ {
+  "min": 7,
+  "max": 15,
+  "char": "s",
+  "pass": "sssssssssssssgsssss"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "x",
+  "pass": "xxxsxzxglpwxl"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "x",
+  "pass": "xxmh"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "g",
+  "pass": "ggsggggggg"
+ },
+ {
+  "min": 4,
+  "max": 17,
+  "char": "t",
+  "pass": "vtttrrrhtghfjvnqtttj"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "n",
+  "pass": "jgnpn"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "k",
+  "pass": "vlkkbkkkkklk"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "v",
+  "pass": "vvvvvvvvwvvvv"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "j",
+  "pass": "jjjjljjjjvm"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "x",
+  "pass": "vvxlx"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "l",
+  "pass": "flll"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "q",
+  "pass": "qqqqqqqqqlq"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "d",
+  "pass": "vdvhmpdtrdhdzfdsgk"
+ },
+ {
+  "min": 14,
+  "max": 16,
+  "char": "b",
+  "pass": "bbqbbbxbhrbpbtmhbbb"
+ },
+ {
+  "min": 18,
+  "max": 19,
+  "char": "d",
+  "pass": "dzpnbxngpgsjtnvtcdd"
+ },
+ {
+  "min": 2,
+  "max": 16,
+  "char": "v",
+  "pass": "jtrhtlfhvkbbflfq"
+ },
+ {
+  "min": 15,
+  "max": 17,
+  "char": "q",
+  "pass": "qqqsqqqqqqjqqqlqm"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "q",
+  "pass": "tqrhtqqspdqvzqbx"
+ },
+ {
+  "min": 4,
+  "max": 8,
+  "char": "b",
+  "pass": "lbbzbwtv"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "f",
+  "pass": "hrsnsfflfffsfjff"
+ },
+ {
+  "min": 10,
+  "max": 14,
+  "char": "k",
+  "pass": "kkjkkkkkkkkkkkkkkhk"
+ },
+ {
+  "min": 4,
+  "max": 9,
+  "char": "c",
+  "pass": "ccwcccccc"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "r",
+  "pass": "grkrrrwjrrgbdtd"
+ },
+ {
+  "min": 8,
+  "max": 12,
+  "char": "p",
+  "pass": "tgspnljpfhtr"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "v",
+  "pass": "vvvvvvm"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "v",
+  "pass": "vvvvvvv"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "q",
+  "pass": "qqqqqdqqq"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "v",
+  "pass": "xfvqvlp"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "g",
+  "pass": "gghb"
+ },
+ {
+  "min": 3,
+  "max": 14,
+  "char": "z",
+  "pass": "xflgzzrkzqzxzzxgd"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "g",
+  "pass": "ldsgswgdgdmjlggb"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "h",
+  "pass": "rhhmhhnbdhhqhwp"
+ },
+ {
+  "min": 16,
+  "max": 18,
+  "char": "m",
+  "pass": "mmmmmmwmmmmmmmmmmmm"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "j",
+  "pass": "scssgcjjjjpzjjn"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "s",
+  "pass": "wznksvkfvfskfs"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "q",
+  "pass": "qdqqkqtbcnqqqsrklqbf"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "c",
+  "pass": "cccchcmcvdcczwt"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "g",
+  "pass": "gggdgggggggggggg"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "k",
+  "pass": "kkkkkk"
+ },
+ {
+  "min": 7,
+  "max": 10,
+  "char": "q",
+  "pass": "qqqqqqqqqqqqq"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "b",
+  "pass": "bbbrhbspbrbfbbqbbbb"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "r",
+  "pass": "gczrgr"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "h",
+  "pass": "whnlvhsftp"
+ },
+ {
+  "min": 8,
+  "max": 20,
+  "char": "h",
+  "pass": "fhhhsdfhhfzgmhpqhhjh"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "z",
+  "pass": "sbzzzzzzdzjbwhgb"
+ },
+ {
+  "min": 4,
+  "max": 8,
+  "char": "h",
+  "pass": "jgtbmhwb"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "s",
+  "pass": "hssksrnhlsdslssvcsbs"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "v",
+  "pass": "vvvvvvv"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "x",
+  "pass": "xxxxxxxxxxxxnsbx"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "l",
+  "pass": "pgllllltpdfpxlll"
+ },
+ {
+  "min": 2,
+  "max": 17,
+  "char": "v",
+  "pass": "vqnncnxkssmhvkzstzgp"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "r",
+  "pass": "rrrhw"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "p",
+  "pass": "pppdppphppp"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "t",
+  "pass": "lrmqtts"
+ },
+ {
+  "min": 8,
+  "max": 12,
+  "char": "h",
+  "pass": "hhlthhhhhhhhhtrzh"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "g",
+  "pass": "jpgpmpcrwfkz"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "w",
+  "pass": "wwwwwwwwwwhwwww"
+ },
+ {
+  "min": 5,
+  "max": 13,
+  "char": "l",
+  "pass": "jwtlqglllllxkllls"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "c",
+  "pass": "ncpcgd"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "l",
+  "pass": "llslllll"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "n",
+  "pass": "jdfwnn"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "z",
+  "pass": "xctxd"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "l",
+  "pass": "lllrll"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "q",
+  "pass": "fqqqqqqzqqqqq"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "c",
+  "pass": "gccwgwqlcxccchchcrcb"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "p",
+  "pass": "pppgpppppppps"
+ },
+ {
+  "min": 10,
+  "max": 16,
+  "char": "g",
+  "pass": "xrgfggzzghtgxgbggg"
+ },
+ {
+  "min": 7,
+  "max": 11,
+  "char": "d",
+  "pass": "tdddddqdwdgxldj"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "p",
+  "pass": "pppppbpppppppppp"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "j",
+  "pass": "jhjj"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "v",
+  "pass": "pvvvvvvvcgvq"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "n",
+  "pass": "qcrhnnkktxvdxcp"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "x",
+  "pass": "lfnxxxdxxxxp"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "s",
+  "pass": "sssssssssbsgs"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "x",
+  "pass": "rqhzxmjnjxx"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "w",
+  "pass": "wwwwvwwwwwwwqhww"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "t",
+  "pass": "dgttttgttttt"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "w",
+  "pass": "wdzwwwwjj"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "v",
+  "pass": "vvsjvvbvvncvvvvxv"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "w",
+  "pass": "wwwwwpwq"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "j",
+  "pass": "jtjjjjrjmxg"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "z",
+  "pass": "zzdgztshstzczw"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "s",
+  "pass": "ssss"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "p",
+  "pass": "pqppgrphrpkdmp"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "x",
+  "pass": "xxxqxxxlxxsx"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "v",
+  "pass": "nvswzv"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "d",
+  "pass": "vdjvdcxdkdd"
+ },
+ {
+  "min": 2,
+  "max": 10,
+  "char": "v",
+  "pass": "vvjcvvvzvkb"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "g",
+  "pass": "gggzggggggjgghg"
+ },
+ {
+  "min": 4,
+  "max": 19,
+  "char": "p",
+  "pass": "pppqppppppppppppppvq"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "n",
+  "pass": "ngznkgdpn"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "t",
+  "pass": "tttwtbtttttxxmttt"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "q",
+  "pass": "qnqqqqqtqqz"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "r",
+  "pass": "rkgr"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "l",
+  "pass": "lqkfljzllqtl"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "m",
+  "pass": "vpmmsnfmtxbcknlmpb"
+ },
+ {
+  "min": 15,
+  "max": 19,
+  "char": "s",
+  "pass": "ssptssnhsksnszsdpqss"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "j",
+  "pass": "jsjjjjnjjjjjjjj"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "p",
+  "pass": "ppppppppz"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "r",
+  "pass": "tqzbnvgsvfrx"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "h",
+  "pass": "hhhhhhhhp"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "s",
+  "pass": "ssssssssssss"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "t",
+  "pass": "ttttttttttttt"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "g",
+  "pass": "ngtgg"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "n",
+  "pass": "tnnnnnnqn"
+ },
+ {
+  "min": 12,
+  "max": 16,
+  "char": "x",
+  "pass": "bxxxxxzxxxxxxxbxx"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "z",
+  "pass": "zzzt"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "x",
+  "pass": "xxgxxxxxxxwcxfx"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "v",
+  "pass": "rgkkhpkjvvf"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "n",
+  "pass": "nfgnnnnnnnnnnnngvn"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "w",
+  "pass": "wkwwwww"
+ },
+ {
+  "min": 5,
+  "max": 16,
+  "char": "g",
+  "pass": "ggggcggwgggggggggg"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "l",
+  "pass": "sjvjlkzrpn"
+ },
+ {
+  "min": 17,
+  "max": 19,
+  "char": "p",
+  "pass": "pppppppppppppppptpd"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "b",
+  "pass": "vjjwbqbdbpwsbw"
+ },
+ {
+  "min": 4,
+  "max": 8,
+  "char": "g",
+  "pass": "gggggjvgd"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "w",
+  "pass": "pzzpwdm"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "g",
+  "pass": "ggggcggggggg"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "v",
+  "pass": "vxvjcvcpslpfn"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "r",
+  "pass": "qrrwrrjrrr"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "m",
+  "pass": "qbmdzvqmxnnmmmtk"
+ },
+ {
+  "min": 2,
+  "max": 14,
+  "char": "q",
+  "pass": "vqttpdjhqvkqzqxz"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "r",
+  "pass": "rrxbrrrrrcrptjrr"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "s",
+  "pass": "cscssssssssssssss"
+ },
+ {
+  "min": 7,
+  "max": 10,
+  "char": "z",
+  "pass": "zxbrzxbdbhzzzfzz"
+ },
+ {
+  "min": 2,
+  "max": 16,
+  "char": "n",
+  "pass": "skqkxqmqbvbrnspnrgq"
+ },
+ {
+  "min": 14,
+  "max": 18,
+  "char": "b",
+  "pass": "bbxsbbdpbnbbbnbbbpbb"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "b",
+  "pass": "bmcrdhbbk"
+ },
+ {
+  "min": 11,
+  "max": 13,
+  "char": "f",
+  "pass": "fffffffzfffwffb"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "w",
+  "pass": "wwbwlww"
+ },
+ {
+  "min": 12,
+  "max": 14,
+  "char": "d",
+  "pass": "gzxclqbnmnxjlzd"
+ },
+ {
+  "min": 13,
+  "max": 19,
+  "char": "z",
+  "pass": "fzzzctzzdsbgzzzzwzpb"
+ },
+ {
+  "min": 2,
+  "max": 12,
+  "char": "w",
+  "pass": "lcwwtwwpwffdjqwms"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "x",
+  "pass": "hznxnxxxxxxxgkxx"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "g",
+  "pass": "cwfjtlgf"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "k",
+  "pass": "bqfkkkklkkkkb"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "l",
+  "pass": "llllgxk"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "m",
+  "pass": "cpwmqkzhxs"
+ },
+ {
+  "min": 8,
+  "max": 15,
+  "char": "b",
+  "pass": "bbwlwkblvbwdvrjbgsb"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "f",
+  "pass": "ffmff"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "c",
+  "pass": "nqxcqcfcqc"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "d",
+  "pass": "ddqddddddtdhd"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "n",
+  "pass": "dghnnqnn"
+ },
+ {
+  "min": 6,
+  "max": 15,
+  "char": "s",
+  "pass": "rsbxbrfmssdknppw"
+ },
+ {
+  "min": 2,
+  "max": 13,
+  "char": "m",
+  "pass": "mmkmmmmqdmkmmm"
+ },
+ {
+  "min": 8,
+  "max": 12,
+  "char": "n",
+  "pass": "nnnnnnnnnnnn"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "d",
+  "pass": "mdkwd"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "l",
+  "pass": "hllllllllllllgl"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "g",
+  "pass": "jgccfnggggpgkt"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "j",
+  "pass": "jjjtjjjjjj"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "v",
+  "pass": "hgpjjlvhvhljb"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "g",
+  "pass": "jfwdgfr"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "f",
+  "pass": "fhffffchf"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "j",
+  "pass": "jjjjjjjjjjjjjjjjj"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "t",
+  "pass": "tcttwtttttrkt"
+ },
+ {
+  "min": 6,
+  "max": 13,
+  "char": "x",
+  "pass": "qmxfxxwxrxdxxxfvgv"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "c",
+  "pass": "cckpccc"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "m",
+  "pass": "qwmmpknsgmdmfvrcvw"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "r",
+  "pass": "rszv"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "q",
+  "pass": "qqqqqqqq"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "l",
+  "pass": "lzlmjl"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "q",
+  "pass": "mqqqqxbqqrqqqdqqbkq"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "h",
+  "pass": "jtvbhxhhphhhh"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "b",
+  "pass": "bbbbfbzbzbb"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "l",
+  "pass": "gljssxddzscvhwrlrb"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "c",
+  "pass": "fxcbccddxxcn"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "s",
+  "pass": "ssssz"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "n",
+  "pass": "jctqdsjchwknkffpnn"
+ },
+ {
+  "min": 8,
+  "max": 10,
+  "char": "c",
+  "pass": "crtwbwcfcqkf"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "r",
+  "pass": "qrzqc"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "z",
+  "pass": "zzzzzzzzsfzsz"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "p",
+  "pass": "pppppppppzrllplp"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "h",
+  "pass": "nhhhhjhqhhplhhh"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "l",
+  "pass": "lllll"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "g",
+  "pass": "gggzgggggg"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "h",
+  "pass": "qhhhshrhhfhhhhch"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "k",
+  "pass": "jsrvnjlkq"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "p",
+  "pass": "pppplppppppppppml"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "m",
+  "pass": "xqhmjdmrmmmffr"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "c",
+  "pass": "cccccgccccrccccccc"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "l",
+  "pass": "llllllllxllt"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "b",
+  "pass": "bbbpbbbwbdnkbb"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "m",
+  "pass": "sfmmpmmmzn"
+ },
+ {
+  "min": 5,
+  "max": 15,
+  "char": "k",
+  "pass": "kkkkkkkkkkkkkkkckkkk"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "h",
+  "pass": "hhhh"
+ },
+ {
+  "min": 15,
+  "max": 19,
+  "char": "g",
+  "pass": "gggwgggrslgxjgfgbfs"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "d",
+  "pass": "dddddddddddxb"
+ },
+ {
+  "min": 6,
+  "max": 14,
+  "char": "k",
+  "pass": "kkrgdvhscffwwm"
+ },
+ {
+  "min": 14,
+  "max": 16,
+  "char": "m",
+  "pass": "zmmmmqmmmmmmmgmm"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "w",
+  "pass": "wwwwgwwww"
+ },
+ {
+  "min": 1,
+  "max": 12,
+  "char": "x",
+  "pass": "xxxxxxxxxxxx"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "b",
+  "pass": "bwrbbfwgh"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "t",
+  "pass": "ftttttttttttttt"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "m",
+  "pass": "mwmmmwkmxsf"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "t",
+  "pass": "tqtttttttdtttt"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "z",
+  "pass": "hzbkpzfg"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "h",
+  "pass": "htblhdhh"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "p",
+  "pass": "pptnlpc"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "l",
+  "pass": "lqlnqhljt"
+ },
+ {
+  "min": 12,
+  "max": 14,
+  "char": "n",
+  "pass": "nnnnnnnnnnjnnt"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "d",
+  "pass": "dszd"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "f",
+  "pass": "fvrffffffffkfff"
+ },
+ {
+  "min": 9,
+  "max": 15,
+  "char": "t",
+  "pass": "bkzstqvtgtwxtzqttd"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "v",
+  "pass": "vrvvvkgv"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "n",
+  "pass": "knbpnnjnnsn"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "n",
+  "pass": "nznkzzqrbn"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "s",
+  "pass": "ssscssssgsqwsspssp"
+ },
+ {
+  "min": 4,
+  "max": 16,
+  "char": "q",
+  "pass": "slqqqqqhqqqqqqdqc"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "d",
+  "pass": "gdttdd"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "h",
+  "pass": "hhqzmh"
+ },
+ {
+  "min": 4,
+  "max": 9,
+  "char": "k",
+  "pass": "lkckkpbzkl"
+ },
+ {
+  "min": 8,
+  "max": 17,
+  "char": "b",
+  "pass": "bbbbkbbpbbbbbbbbn"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "r",
+  "pass": "bqmrw"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "s",
+  "pass": "ztssqssbz"
+ },
+ {
+  "min": 1,
+  "max": 13,
+  "char": "s",
+  "pass": "stbqmhspsdgjs"
+ },
+ {
+  "min": 8,
+  "max": 10,
+  "char": "z",
+  "pass": "trnsmlxzmzzzz"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "v",
+  "pass": "vlxvgzbzvvv"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "c",
+  "pass": "xddhwtcbpcf"
+ },
+ {
+  "min": 13,
+  "max": 19,
+  "char": "g",
+  "pass": "rjvsgpnfjvzlxxzzgxgm"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "m",
+  "pass": "qffpmxmfmk"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "c",
+  "pass": "dcfwcpxcmvpxxtcbmzhc"
+ },
+ {
+  "min": 6,
+  "max": 10,
+  "char": "k",
+  "pass": "jkpbkvghpxksfkkk"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "j",
+  "pass": "jmgjjjj"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "z",
+  "pass": "szrznmkjxnzj"
+ },
+ {
+  "min": 4,
+  "max": 9,
+  "char": "s",
+  "pass": "ssssssssss"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "h",
+  "pass": "hkqvfgpsxlnhtrqr"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "g",
+  "pass": "gggglrlgggwv"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "v",
+  "pass": "vrbvlvrvv"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "j",
+  "pass": "jjjjjjjjjz"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "k",
+  "pass": "kkjkkkkkfckgkkkkk"
+ },
+ {
+  "min": 3,
+  "max": 15,
+  "char": "x",
+  "pass": "xxrxxxxxxxwxpxg"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "v",
+  "pass": "vvhvvdzvqfrvgqvt"
+ },
+ {
+  "min": 5,
+  "max": 17,
+  "char": "z",
+  "pass": "zznzzzzzzzzzzzzvf"
+ },
+ {
+  "min": 4,
+  "max": 12,
+  "char": "n",
+  "pass": "fdrncrggjlbgbmwv"
+ },
+ {
+  "min": 6,
+  "max": 17,
+  "char": "d",
+  "pass": "tcddhdbdvtsnrdstd"
+ },
+ {
+  "min": 1,
+  "max": 10,
+  "char": "m",
+  "pass": "mqljmgchlmsx"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "l",
+  "pass": "fbllbl"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "p",
+  "pass": "kpmtpphwp"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "j",
+  "pass": "sjjjjj"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "n",
+  "pass": "nnnnbs"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "p",
+  "pass": "ppqppngcphpk"
+ },
+ {
+  "min": 5,
+  "max": 15,
+  "char": "x",
+  "pass": "xxxxgxxxxxxxxxqx"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "p",
+  "pass": "ppppm"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "w",
+  "pass": "wwwkwww"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "r",
+  "pass": "rrrx"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "z",
+  "pass": "zzznp"
+ },
+ {
+  "min": 12,
+  "max": 14,
+  "char": "n",
+  "pass": "tnzwtmnnnnndnfnnn"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "d",
+  "pass": "ddfdddtdddd"
+ },
+ {
+  "min": 4,
+  "max": 14,
+  "char": "l",
+  "pass": "hvllsgncmhxhwl"
+ },
+ {
+  "min": 10,
+  "max": 15,
+  "char": "j",
+  "pass": "kxftfsmjvjgslsjpp"
+ },
+ {
+  "min": 2,
+  "max": 10,
+  "char": "g",
+  "pass": "gtgvggqggggxggdg"
+ },
+ {
+  "min": 1,
+  "max": 9,
+  "char": "v",
+  "pass": "cvnxhhffnbcv"
+ },
+ {
+  "min": 1,
+  "max": 14,
+  "char": "c",
+  "pass": "ccccccccccccccc"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "q",
+  "pass": "fnqmkbhqtbjqvczq"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "v",
+  "pass": "fvphvgv"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "k",
+  "pass": "kkkkkkkkkpt"
+ },
+ {
+  "min": 1,
+  "max": 10,
+  "char": "d",
+  "pass": "dddldkddmdd"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "x",
+  "pass": "xxxxxxxx"
+ },
+ {
+  "min": 4,
+  "max": 11,
+  "char": "k",
+  "pass": "kxkfkkkskkrkmk"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "n",
+  "pass": "nlmngnkqww"
+ },
+ {
+  "min": 1,
+  "max": 9,
+  "char": "j",
+  "pass": "jjjjjjjjsj"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "b",
+  "pass": "bbbbbb"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "q",
+  "pass": "qqnqqmqqqpq"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "r",
+  "pass": "drrrrsrrz"
+ },
+ {
+  "min": 10,
+  "max": 15,
+  "char": "n",
+  "pass": "nnhncnpsnxtnpnqnnghn"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "d",
+  "pass": "ddddddd"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "x",
+  "pass": "bxvxbxjwxgx"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "n",
+  "pass": "cmpwsbjzghgndj"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "r",
+  "pass": "przczfjfrbwj"
+ },
+ {
+  "min": 3,
+  "max": 17,
+  "char": "k",
+  "pass": "qbvmqxxffdfpkwxdgxv"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "v",
+  "pass": "llmjvscvjvpvp"
+ },
+ {
+  "min": 2,
+  "max": 7,
+  "char": "z",
+  "pass": "vzxzxxz"
+ },
+ {
+  "min": 9,
+  "max": 18,
+  "char": "r",
+  "pass": "srdrjcrrrvhrcqrrrr"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "f",
+  "pass": "rffffvtrfsqff"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "w",
+  "pass": "pdcwwvmwwwkzwwjwxks"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "c",
+  "pass": "cccc"
+ },
+ {
+  "min": 15,
+  "max": 19,
+  "char": "c",
+  "pass": "cccccccnccclbnplccqc"
+ },
+ {
+  "min": 2,
+  "max": 13,
+  "char": "f",
+  "pass": "fffffffffffffff"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "t",
+  "pass": "thrkzdttb"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "p",
+  "pass": "pppppgppppjp"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "q",
+  "pass": "qqqrqfqs"
+ },
+ {
+  "min": 7,
+  "max": 11,
+  "char": "r",
+  "pass": "crprgtwwrzp"
+ },
+ {
+  "min": 2,
+  "max": 10,
+  "char": "f",
+  "pass": "qfhgfftfdbfnlffffff"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "h",
+  "pass": "dhvvlcw"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "s",
+  "pass": "sffsfws"
+ },
+ {
+  "min": 2,
+  "max": 7,
+  "char": "b",
+  "pass": "jrvxbhbp"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "w",
+  "pass": "wwwgwwwwwkb"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "d",
+  "pass": "dddddddddddddkdv"
+ },
+ {
+  "min": 4,
+  "max": 14,
+  "char": "b",
+  "pass": "bbbbbbbbbbbbbbb"
+ },
+ {
+  "min": 4,
+  "max": 8,
+  "char": "x",
+  "pass": "xxxxdxbqxc"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "l",
+  "pass": "phlkhlllbc"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "s",
+  "pass": "ssgskqvrsrwdt"
+ },
+ {
+  "min": 19,
+  "max": 20,
+  "char": "x",
+  "pass": "xcxqxvxxxtstnqxhxxxx"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "x",
+  "pass": "gxxxxgb"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "c",
+  "pass": "cccccc"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "q",
+  "pass": "pzzjqjqpfbqws"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "t",
+  "pass": "ttdttsccttpt"
+ },
+ {
+  "min": 14,
+  "max": 18,
+  "char": "c",
+  "pass": "ccrccccccccccccccrc"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "x",
+  "pass": "xxzqx"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "c",
+  "pass": "qbckpccckccccws"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "g",
+  "pass": "gggggg"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "n",
+  "pass": "wknbnnlnnq"
+ },
+ {
+  "min": 9,
+  "max": 13,
+  "char": "j",
+  "pass": "jjxjjjnjjjdqjjj"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "s",
+  "pass": "smsxsrfss"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "v",
+  "pass": "vxphvvk"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "x",
+  "pass": "xxxqxxbbx"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "g",
+  "pass": "zrgtghjwd"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "n",
+  "pass": "nmntwnn"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "g",
+  "pass": "ggznggggg"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "k",
+  "pass": "tkkzs"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "g",
+  "pass": "hqdhggggqggk"
+ },
+ {
+  "min": 12,
+  "max": 16,
+  "char": "w",
+  "pass": "wwztwmwwspwhmwwz"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "m",
+  "pass": "mmmvmjmmm"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "j",
+  "pass": "jjjj"
+ },
+ {
+  "min": 6,
+  "max": 16,
+  "char": "z",
+  "pass": "kzbtzqrkzzcfhvpwjszx"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "f",
+  "pass": "ffwffffffff"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "b",
+  "pass": "bbbmsbbbbbbwbbbbwb"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "n",
+  "pass": "nnnnnnnnnnnnnnv"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "v",
+  "pass": "bvvflvvbjvbtjqrvsxf"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "g",
+  "pass": "gjgnggg"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "n",
+  "pass": "nnnnnnnnnnnnnnwvqnn"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "l",
+  "pass": "lllhllrlllllllll"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "l",
+  "pass": "llmlll"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "z",
+  "pass": "zzqzdzvzzzz"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "d",
+  "pass": "ntdd"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "b",
+  "pass": "sbndbkjxldqpzfbzbqx"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "t",
+  "pass": "bwcfzdlfslsd"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "d",
+  "pass": "dddddd"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "t",
+  "pass": "jtpt"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "q",
+  "pass": "qqqqgqqqqqqmqq"
+ },
+ {
+  "min": 10,
+  "max": 19,
+  "char": "m",
+  "pass": "mmmmmmmmmsmmmmmmmgs"
+ },
+ {
+  "min": 2,
+  "max": 14,
+  "char": "x",
+  "pass": "xxxxxgxvxmxxxbx"
+ },
+ {
+  "min": 3,
+  "max": 13,
+  "char": "l",
+  "pass": "tzljvxspwxdnl"
+ },
+ {
+  "min": 6,
+  "max": 10,
+  "char": "p",
+  "pass": "lhnppkpswrppgppzpppn"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "j",
+  "pass": "djgwjjhvpwkcgsfbf"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "p",
+  "pass": "ppppppppprpppppp"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "l",
+  "pass": "lvgcbnlclvjlk"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "z",
+  "pass": "zzzzzzzzzzn"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "x",
+  "pass": "xzvhxnpwbxgxx"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "h",
+  "pass": "hhlrhnl"
+ },
+ {
+  "min": 8,
+  "max": 10,
+  "char": "b",
+  "pass": "brngbslhqhb"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "s",
+  "pass": "ssqjxsssdsssss"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "s",
+  "pass": "dbjdjknspbdldfbjd"
+ },
+ {
+  "min": 10,
+  "max": 16,
+  "char": "z",
+  "pass": "ctzzzzznzcwzztzl"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "j",
+  "pass": "jjjjjjjjjjjjjjjj"
+ },
+ {
+  "min": 9,
+  "max": 13,
+  "char": "d",
+  "pass": "qvdpwddddddddd"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "c",
+  "pass": "ccccchcccccq"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "x",
+  "pass": "xxxxx"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "t",
+  "pass": "ttstttztttttltt"
+ },
+ {
+  "min": 3,
+  "max": 16,
+  "char": "k",
+  "pass": "qvfjklgzlwfwnbjklqdx"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "g",
+  "pass": "ggggggtgggggggvg"
+ },
+ {
+  "min": 11,
+  "max": 15,
+  "char": "j",
+  "pass": "vqzjvzvxjhjnjtj"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "t",
+  "pass": "tttttttg"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "x",
+  "pass": "xxxxfmn"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "m",
+  "pass": "mmlmmgvfmmmdmmcmmq"
+ },
+ {
+  "min": 7,
+  "max": 14,
+  "char": "w",
+  "pass": "wwkwwwwwwwmptwww"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "b",
+  "pass": "bbbbbbbbbbbbbbbbbb"
+ },
+ {
+  "min": 2,
+  "max": 8,
+  "char": "c",
+  "pass": "kbvcnrpx"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "n",
+  "pass": "nnnnnnnnpnnnnnngl"
+ },
+ {
+  "min": 10,
+  "max": 15,
+  "char": "k",
+  "pass": "kbkjkdkwpkkhkkksklx"
+ },
+ {
+  "min": 2,
+  "max": 12,
+  "char": "p",
+  "pass": "pjhdkvwdltvqrhm"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "x",
+  "pass": "vxhxxk"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "m",
+  "pass": "mmfmf"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "n",
+  "pass": "ngnggfnwnn"
+ },
+ {
+  "min": 9,
+  "max": 16,
+  "char": "b",
+  "pass": "bnbbbtcbbbvbbrbbbbb"
+ },
+ {
+  "min": 2,
+  "max": 8,
+  "char": "p",
+  "pass": "ppphpzppcgptpprhpp"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "x",
+  "pass": "xxxxxxxxxxxx"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "d",
+  "pass": "dknbddd"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "r",
+  "pass": "rrrrrrrrj"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "f",
+  "pass": "fjmfxk"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "n",
+  "pass": "jnnnbjckggnpjnddhx"
+ },
+ {
+  "min": 6,
+  "max": 12,
+  "char": "d",
+  "pass": "dznpsfdtdsdndjddvcdd"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "x",
+  "pass": "xxxxxxhqxxxbxbsx"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "k",
+  "pass": "kkfkkkk"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "l",
+  "pass": "lprlqllll"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "x",
+  "pass": "qxxqkjxxxxxxmz"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "f",
+  "pass": "rxfffwcff"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "s",
+  "pass": "cpscszdssc"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "t",
+  "pass": "tttftt"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "p",
+  "pass": "kpvtkprdqhxzpxrbfp"
+ },
+ {
+  "min": 6,
+  "max": 12,
+  "char": "s",
+  "pass": "ksnsklwqfssdsbsss"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "l",
+  "pass": "lzlflfl"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "t",
+  "pass": "ttktttttt"
+ },
+ {
+  "min": 8,
+  "max": 14,
+  "char": "d",
+  "pass": "hdddzndhsddpfpdxt"
+ },
+ {
+  "min": 8,
+  "max": 10,
+  "char": "d",
+  "pass": "ddnddrddvxbzskddzd"
+ },
+ {
+  "min": 11,
+  "max": 13,
+  "char": "v",
+  "pass": "mvhvrtvvvvzvrvdv"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "g",
+  "pass": "gggjw"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "m",
+  "pass": "xhmrpm"
+ },
+ {
+  "min": 7,
+  "max": 13,
+  "char": "k",
+  "pass": "kkkkkkkkkkkkk"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "n",
+  "pass": "nnnnnnmnngnnnnnn"
+ },
+ {
+  "min": 7,
+  "max": 15,
+  "char": "m",
+  "pass": "kcmtmjtmwjmcsbbms"
+ },
+ {
+  "min": 13,
+  "max": 16,
+  "char": "j",
+  "pass": "jjjjjjjjjjjjpjjlj"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "n",
+  "pass": "nnmnkn"
+ },
+ {
+  "min": 12,
+  "max": 14,
+  "char": "j",
+  "pass": "jjjjjjjjjjjdjj"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "c",
+  "pass": "cchc"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "m",
+  "pass": "mmmqbmlwmmjmzmmml"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "r",
+  "pass": "rrkkrrrt"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "k",
+  "pass": "wckknxkpkktmks"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "d",
+  "pass": "ddddpdddnpx"
+ },
+ {
+  "min": 1,
+  "max": 8,
+  "char": "q",
+  "pass": "qmpmxzfqnqctwpprm"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "q",
+  "pass": "sgkfxhqjkqqq"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "p",
+  "pass": "rwpppdlmhpptkbrlp"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "d",
+  "pass": "lzrbxnlcsqhssgdpvjs"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "c",
+  "pass": "scccck"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "s",
+  "pass": "ssshxsssws"
+ },
+ {
+  "min": 3,
+  "max": 11,
+  "char": "l",
+  "pass": "nslwgmxmtblzttxxg"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "z",
+  "pass": "zzzzzzzzzzz"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "j",
+  "pass": "bjjjjjqdbjj"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "d",
+  "pass": "glpfjbpdxd"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "k",
+  "pass": "wkvwrk"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "c",
+  "pass": "vtcgcbc"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "x",
+  "pass": "xxxxxxxxxxxxxxxxm"
+ },
+ {
+  "min": 2,
+  "max": 11,
+  "char": "f",
+  "pass": "ffffffsfffffffffffff"
+ },
+ {
+  "min": 4,
+  "max": 8,
+  "char": "m",
+  "pass": "mrmmmmmmmmmmmm"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "x",
+  "pass": "xvzxx"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "h",
+  "pass": "hxpn"
+ },
+ {
+  "min": 13,
+  "max": 17,
+  "char": "x",
+  "pass": "xxxxxxxxxxxrxpxxxx"
+ },
+ {
+  "min": 4,
+  "max": 13,
+  "char": "q",
+  "pass": "wcqqtwwmwqqtqmqtqrqq"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "d",
+  "pass": "dddtdqdnjxdzdfdd"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "f",
+  "pass": "jffffsffmffqjff"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "d",
+  "pass": "sxdvddddwqxd"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "d",
+  "pass": "ddddfdddddcdddd"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "b",
+  "pass": "bbbbbbbbbhlbbj"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "p",
+  "pass": "pfpp"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "j",
+  "pass": "jjjgwkgwnfffvfzfl"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "l",
+  "pass": "gknrmjgxtlzcbvkgxb"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "n",
+  "pass": "nnnnnnnnntnnnnnnxn"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "r",
+  "pass": "rjrr"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "m",
+  "pass": "nkmr"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "f",
+  "pass": "fffffffffff"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "r",
+  "pass": "rnhtml"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "q",
+  "pass": "qqkqqqqqqqqkqqqqq"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "r",
+  "pass": "rrnrrrrrrrrrrrrr"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "m",
+  "pass": "bmmmdmmmmdmh"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "g",
+  "pass": "ppdvvxgkhfskfqc"
+ },
+ {
+  "min": 2,
+  "max": 10,
+  "char": "v",
+  "pass": "txpvkgvcbqvqfk"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "p",
+  "pass": "tqcvbtp"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "z",
+  "pass": "zzzzzzz"
+ },
+ {
+  "min": 7,
+  "max": 16,
+  "char": "z",
+  "pass": "fdjbbkrzjzdbdblhxb"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "x",
+  "pass": "xlkz"
+ },
+ {
+  "min": 4,
+  "max": 11,
+  "char": "m",
+  "pass": "glhknzmvqzfmnsbn"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "q",
+  "pass": "qhmdgqvq"
+ },
+ {
+  "min": 8,
+  "max": 16,
+  "char": "t",
+  "pass": "tttdtttdtttttttbvt"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "v",
+  "pass": "vptcmgvvjvvvfvvmht"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "t",
+  "pass": "ttttttngt"
+ },
+ {
+  "min": 5,
+  "max": 15,
+  "char": "t",
+  "pass": "ztgbttrntttdvgtptjdb"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "b",
+  "pass": "bvndbbbbbbbbbbbbtb"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "t",
+  "pass": "sbqts"
+ },
+ {
+  "min": 12,
+  "max": 16,
+  "char": "w",
+  "pass": "wwwwwwwwwwwwwnwww"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "m",
+  "pass": "kmmr"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "k",
+  "pass": "kkmkrkkkkzkdkrgkk"
+ },
+ {
+  "min": 5,
+  "max": 13,
+  "char": "h",
+  "pass": "hhhhzhhhhhhhzhhhh"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "l",
+  "pass": "lllllllllllllcllq"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "b",
+  "pass": "bbjb"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "t",
+  "pass": "vtjhmf"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "q",
+  "pass": "vzdqfd"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "n",
+  "pass": "nnnn"
+ },
+ {
+  "min": 7,
+  "max": 14,
+  "char": "j",
+  "pass": "jpjjjjjjljjjjjjjj"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "j",
+  "pass": "crsjpjjjqjjfjkv"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "t",
+  "pass": "ttttttttttttt"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "j",
+  "pass": "jjbjsjvhbfssznf"
+ },
+ {
+  "min": 9,
+  "max": 13,
+  "char": "f",
+  "pass": "ffmfffffzfffgfff"
+ },
+ {
+  "min": 15,
+  "max": 18,
+  "char": "g",
+  "pass": "sgblrqdftpwzggvgqt"
+ },
+ {
+  "min": 19,
+  "max": 20,
+  "char": "r",
+  "pass": "rrrrrrrrrrrrrrrrrrvj"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "j",
+  "pass": "mjlt"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "x",
+  "pass": "jxxxxxxxxgxxx"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "p",
+  "pass": "ppptppp"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "b",
+  "pass": "jbmnbmsc"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "f",
+  "pass": "zshfcbhsh"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "r",
+  "pass": "rrrqwtrvclf"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "g",
+  "pass": "chgtwlbg"
+ },
+ {
+  "min": 11,
+  "max": 15,
+  "char": "n",
+  "pass": "knnhnnhnnnpnlknnkhnn"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "z",
+  "pass": "zkqlzzpmjph"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "b",
+  "pass": "bbbbhbbbbbbbbbbbbb"
+ },
+ {
+  "min": 6,
+  "max": 15,
+  "char": "c",
+  "pass": "ccccdkrncwrcclc"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "c",
+  "pass": "ckcccwdhcc"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "t",
+  "pass": "ntttktttttftttt"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "j",
+  "pass": "jpjzcjjjjj"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "k",
+  "pass": "kpkkksbkkkkkr"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "s",
+  "pass": "sqssssbssxcs"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "p",
+  "pass": "pbbplhtfpktpnppx"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "n",
+  "pass": "ncnnnsn"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "s",
+  "pass": "sssrss"
+ },
+ {
+  "min": 3,
+  "max": 16,
+  "char": "v",
+  "pass": "kvvvvvvczvvvvvvvkww"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "k",
+  "pass": "kkkpmk"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "h",
+  "pass": "hhhhhhhmb"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "c",
+  "pass": "czwcccmtckccc"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "t",
+  "pass": "tstglltkt"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "c",
+  "pass": "cccccv"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "z",
+  "pass": "zzzkzqzzzzzvzzz"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "d",
+  "pass": "ddch"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "j",
+  "pass": "jjjjjvj"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "c",
+  "pass": "cccccccccccccc"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "j",
+  "pass": "hjkwpjjbjfsq"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "t",
+  "pass": "tttlcdb"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "z",
+  "pass": "zzzzzzzzzsqzzgzzzkz"
+ },
+ {
+  "min": 8,
+  "max": 10,
+  "char": "t",
+  "pass": "ptckdjtsptlmzrktwcw"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "n",
+  "pass": "tnbhnnkvnq"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "m",
+  "pass": "fqmmmmmqmtmkcmmvnwmm"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "z",
+  "pass": "zzzzztvl"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "j",
+  "pass": "jbpjjjjpxmqxcbwsjrjj"
+ },
+ {
+  "min": 2,
+  "max": 8,
+  "char": "t",
+  "pass": "ttkdzfwdtflfswlkntt"
+ },
+ {
+  "min": 6,
+  "max": 11,
+  "char": "j",
+  "pass": "rnjjjjjjjjj"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "f",
+  "pass": "fwhkbfdfffvfs"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "l",
+  "pass": "pflplntf"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "r",
+  "pass": "rrrrr"
+ },
+ {
+  "min": 16,
+  "max": 20,
+  "char": "g",
+  "pass": "gggggggggggggggggggg"
+ },
+ {
+  "min": 1,
+  "max": 12,
+  "char": "t",
+  "pass": "xtnsxbjtttxtt"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "r",
+  "pass": "zrrrrrkrnrrrrrrrrr"
+ },
+ {
+  "min": 2,
+  "max": 11,
+  "char": "n",
+  "pass": "nrjnnnwnnprnnn"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "z",
+  "pass": "zzzkxzzhznzdz"
+ },
+ {
+  "min": 7,
+  "max": 13,
+  "char": "d",
+  "pass": "pdcjdddqddlddcdkdxk"
+ },
+ {
+  "min": 10,
+  "max": 15,
+  "char": "r",
+  "pass": "rrrbrrrmvrcphrrqr"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "l",
+  "pass": "rsll"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "x",
+  "pass": "xxxqvrxx"
+ },
+ {
+  "min": 5,
+  "max": 14,
+  "char": "p",
+  "pass": "ppcdvppbppppjpbg"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "x",
+  "pass": "dxdxdhkxxvxqxxxfx"
+ },
+ {
+  "min": 6,
+  "max": 12,
+  "char": "r",
+  "pass": "pvbfrhqrhftqrrxcrr"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "t",
+  "pass": "zdbtzst"
+ },
+ {
+  "min": 1,
+  "max": 13,
+  "char": "k",
+  "pass": "kkkpkghkqkskk"
+ },
+ {
+  "min": 5,
+  "max": 17,
+  "char": "g",
+  "pass": "gvggqgggggqmgxggfgg"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "l",
+  "pass": "llllwllllllwf"
+ },
+ {
+  "min": 2,
+  "max": 11,
+  "char": "b",
+  "pass": "bbbbbbbbbbbbb"
+ },
+ {
+  "min": 7,
+  "max": 17,
+  "char": "h",
+  "pass": "hhhhhhhhhhhhhhhhhh"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "w",
+  "pass": "lwww"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "s",
+  "pass": "vstcs"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "s",
+  "pass": "vssssxss"
+ },
+ {
+  "min": 14,
+  "max": 16,
+  "char": "r",
+  "pass": "fmrrrrrrrrrrwwrvrr"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "g",
+  "pass": "dgwgggp"
+ },
+ {
+  "min": 12,
+  "max": 16,
+  "char": "g",
+  "pass": "wggxgggrggggzgbgggg"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "s",
+  "pass": "tjhxrscnsscssssnms"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "n",
+  "pass": "nnnnnnnnjnnlnnnnn"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "b",
+  "pass": "zncbmbglqbbbbpgm"
+ },
+ {
+  "min": 12,
+  "max": 18,
+  "char": "l",
+  "pass": "lllllllllllvlllllwl"
+ },
+ {
+  "min": 10,
+  "max": 16,
+  "char": "q",
+  "pass": "qqqgqfqqqqqrrqgqq"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "n",
+  "pass": "nnnsnrnnnp"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "q",
+  "pass": "qqqqqbqqqqq"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "k",
+  "pass": "bnsfzkkwfkknkccwqkm"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "c",
+  "pass": "ccdcccc"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "z",
+  "pass": "nlsgzzzdz"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "k",
+  "pass": "xkgxhqkpftx"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "d",
+  "pass": "ddddddddhdddddddd"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "x",
+  "pass": "xmjxwxx"
+ },
+ {
+  "min": 14,
+  "max": 16,
+  "char": "z",
+  "pass": "zzzzzzzzzzzzzrzq"
+ },
+ {
+  "min": 3,
+  "max": 14,
+  "char": "n",
+  "pass": "qnznjvlzdnnrgwfr"
+ },
+ {
+  "min": 7,
+  "max": 13,
+  "char": "s",
+  "pass": "sssxsspsssssrz"
+ },
+ {
+  "min": 4,
+  "max": 11,
+  "char": "k",
+  "pass": "pkkkcklbkkkk"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "x",
+  "pass": "xxxxxxxxxxtx"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "z",
+  "pass": "zzjzzfz"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "d",
+  "pass": "zddddddz"
+ },
+ {
+  "min": 10,
+  "max": 20,
+  "char": "c",
+  "pass": "smccccvcpbccbqcxbccq"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "m",
+  "pass": "mmmmmvmmmjmnnmlpsm"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "j",
+  "pass": "jjjjjjjjjjjjj"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "m",
+  "pass": "pmmbm"
+ },
+ {
+  "min": 7,
+  "max": 17,
+  "char": "m",
+  "pass": "mmmmmwcmmdfqrmmhlmm"
+ },
+ {
+  "min": 3,
+  "max": 17,
+  "char": "g",
+  "pass": "gcggnggbgdggggggg"
+ },
+ {
+  "min": 10,
+  "max": 16,
+  "char": "b",
+  "pass": "sqpsqkfbnbqzswbb"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "w",
+  "pass": "wwwn"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "d",
+  "pass": "dddddpd"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "m",
+  "pass": "mmmmmmdmmmqlmnvms"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "j",
+  "pass": "jjjjjtjjjjjjzjcj"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "t",
+  "pass": "ttttttttjtttttttttt"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "d",
+  "pass": "dcddmchdwbqrllsxjdv"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "h",
+  "pass": "hshghhndnhhfhhhhh"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "g",
+  "pass": "ggggch"
+ },
+ {
+  "min": 6,
+  "max": 13,
+  "char": "c",
+  "pass": "ccvccpccccccvcccccc"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "h",
+  "pass": "hbfh"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "l",
+  "pass": "lllptphml"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "s",
+  "pass": "xwrqssfzr"
+ },
+ {
+  "min": 9,
+  "max": 13,
+  "char": "m",
+  "pass": "mktmmwmmmmrmmrqmmmcm"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "l",
+  "pass": "rkvxvrglltlc"
+ },
+ {
+  "min": 1,
+  "max": 8,
+  "char": "q",
+  "pass": "jfqqxngqnqchq"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "x",
+  "pass": "zxgjxx"
+ },
+ {
+  "min": 5,
+  "max": 14,
+  "char": "g",
+  "pass": "mlbgvdglrgcqjgz"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "t",
+  "pass": "tqgtv"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "s",
+  "pass": "ssfnzs"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "m",
+  "pass": "mxwhmmmmmmzm"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "d",
+  "pass": "dbhjzd"
+ },
+ {
+  "min": 2,
+  "max": 16,
+  "char": "f",
+  "pass": "fffffffffffkffffff"
+ },
+ {
+  "min": 6,
+  "max": 10,
+  "char": "b",
+  "pass": "dbbbbbbbbbbb"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "x",
+  "pass": "xxxmxxcx"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "l",
+  "pass": "lllpllcb"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "d",
+  "pass": "dzdddddddddddddddd"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "t",
+  "pass": "tklkqftnwcj"
+ },
+ {
+  "min": 9,
+  "max": 15,
+  "char": "g",
+  "pass": "jccxpmfjgntpptgkkcvt"
+ },
+ {
+  "min": 1,
+  "max": 8,
+  "char": "r",
+  "pass": "sdrwgcvprt"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "v",
+  "pass": "nhbwx"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "z",
+  "pass": "zzzzzzzzzzzzzzzzxsz"
+ },
+ {
+  "min": 5,
+  "max": 13,
+  "char": "l",
+  "pass": "cbdklqhnklkmwhpp"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "f",
+  "pass": "fffff"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "q",
+  "pass": "qpwq"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "x",
+  "pass": "vxxgrgxxfvvgx"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "r",
+  "pass": "rrfd"
+ },
+ {
+  "min": 3,
+  "max": 16,
+  "char": "x",
+  "pass": "sxqxxxxxxxxxxxxwxxx"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "s",
+  "pass": "ssssssss"
+ },
+ {
+  "min": 5,
+  "max": 13,
+  "char": "b",
+  "pass": "jbbhqqbblbbbbfcb"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "p",
+  "pass": "ppppppppprpppwppphp"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "p",
+  "pass": "kdpnpfphppvffpwf"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "r",
+  "pass": "jvrrrrrnrpqrn"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "m",
+  "pass": "ncmmdxmm"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "v",
+  "pass": "vvvvvvvvvdl"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "g",
+  "pass": "jlsscggg"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "m",
+  "pass": "gwms"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "f",
+  "pass": "fpkvnf"
+ },
+ {
+  "min": 6,
+  "max": 15,
+  "char": "j",
+  "pass": "zfdrxjgxtbkbbjjctmsk"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "v",
+  "pass": "qnnbvvwqvbwqblqd"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "v",
+  "pass": "kvhvt"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "x",
+  "pass": "lxrgsxg"
+ },
+ {
+  "min": 6,
+  "max": 8,
+  "char": "s",
+  "pass": "sssxswsjsssxss"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "t",
+  "pass": "dxwjttnqkt"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "s",
+  "pass": "sssssssssssvjg"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "t",
+  "pass": "rtttnf"
+ },
+ {
+  "min": 9,
+  "max": 17,
+  "char": "h",
+  "pass": "hjhhhvhhbhhwhhhhphd"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "m",
+  "pass": "mmmwcm"
+ },
+ {
+  "min": 10,
+  "max": 12,
+  "char": "v",
+  "pass": "vvvvvvvvvvvv"
+ },
+ {
+  "min": 6,
+  "max": 10,
+  "char": "j",
+  "pass": "flcjtzwhwsnjjjrjrj"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "d",
+  "pass": "ddmrddddd"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "c",
+  "pass": "ccccslcrwrc"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "s",
+  "pass": "hpsqtxvkrsssshh"
+ },
+ {
+  "min": 11,
+  "max": 15,
+  "char": "t",
+  "pass": "hrxtjgtwtlmpqfx"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "l",
+  "pass": "llbxlsllllqrqlllzlb"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "c",
+  "pass": "crlcvcxwd"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "s",
+  "pass": "vjbsxhwwdvshfxstc"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "f",
+  "pass": "jfhnffbgsfjfwf"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "x",
+  "pass": "ksxqvfsvnxsgvwgpjzl"
+ },
+ {
+  "min": 16,
+  "max": 19,
+  "char": "g",
+  "pass": "gggggggggggggggdggg"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "h",
+  "pass": "hhhhhchhzmqhh"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "f",
+  "pass": "kfdlcfrxftzgq"
+ },
+ {
+  "min": 2,
+  "max": 8,
+  "char": "p",
+  "pass": "ppnppkpwwmgp"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "g",
+  "pass": "ggfgrg"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "n",
+  "pass": "nnnnnnqwnnn"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "h",
+  "pass": "hzjgthqphwhnjh"
+ },
+ {
+  "min": 10,
+  "max": 15,
+  "char": "l",
+  "pass": "xlllllllvlllllll"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "l",
+  "pass": "lzjb"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "l",
+  "pass": "ldzlql"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "b",
+  "pass": "mzlbqzbrqjjbddr"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "t",
+  "pass": "tttttxtttpttt"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "d",
+  "pass": "dddddd"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "k",
+  "pass": "kzvkkrkf"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "h",
+  "pass": "fqml"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "f",
+  "pass": "jhtfdfgmnchprbwbfrf"
+ },
+ {
+  "min": 3,
+  "max": 10,
+  "char": "s",
+  "pass": "sjsnsksbdsss"
+ },
+ {
+  "min": 1,
+  "max": 17,
+  "char": "j",
+  "pass": "jgcbjmjjjjjcxsjjjjhj"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "k",
+  "pass": "tkjkjbkkrkkkklmgkj"
+ },
+ {
+  "min": 2,
+  "max": 13,
+  "char": "k",
+  "pass": "kkkkfkqkkkkkkkkpkk"
+ },
+ {
+  "min": 4,
+  "max": 13,
+  "char": "d",
+  "pass": "ddkkdtddzdnnddjdd"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "v",
+  "pass": "fxvnxdvxnrbjs"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "s",
+  "pass": "sssssssssspssssss"
+ },
+ {
+  "min": 1,
+  "max": 8,
+  "char": "k",
+  "pass": "khkkkkkkhk"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "k",
+  "pass": "kkktmkkzk"
+ },
+ {
+  "min": 4,
+  "max": 9,
+  "char": "w",
+  "pass": "wrqdfwxwnfwwwnmzww"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "l",
+  "pass": "lgtcvl"
+ },
+ {
+  "min": 13,
+  "max": 18,
+  "char": "n",
+  "pass": "nnnnnnnnnnqnnnvnnnn"
+ },
+ {
+  "min": 15,
+  "max": 17,
+  "char": "z",
+  "pass": "zzzzzzzzzhzzzzqzv"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "q",
+  "pass": "lxnqsvk"
+ },
+ {
+  "min": 8,
+  "max": 13,
+  "char": "g",
+  "pass": "rzzwdlzgbcmggct"
+ },
+ {
+  "min": 10,
+  "max": 14,
+  "char": "d",
+  "pass": "ddvdbddddnddpd"
+ },
+ {
+  "min": 6,
+  "max": 10,
+  "char": "d",
+  "pass": "dphsszqrvz"
+ },
+ {
+  "min": 8,
+  "max": 16,
+  "char": "b",
+  "pass": "bnbgfbkbbbqlbcbbgqbb"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "d",
+  "pass": "dddjddmqndddddddvjdd"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "q",
+  "pass": "tnhgqkqfpjhwqgktq"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "n",
+  "pass": "nnnbn"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "f",
+  "pass": "fwfffbfcvflff"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "s",
+  "pass": "sssglsvssvls"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "z",
+  "pass": "zzzzzzzzzqjzz"
+ },
+ {
+  "min": 2,
+  "max": 11,
+  "char": "m",
+  "pass": "mhzrwphzxgj"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "k",
+  "pass": "kkkwkd"
+ },
+ {
+  "min": 8,
+  "max": 15,
+  "char": "m",
+  "pass": "mrmmmmmzmmmmzmgmm"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "w",
+  "pass": "wwwwwwxwwww"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "l",
+  "pass": "nllllllll"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "m",
+  "pass": "zbshj"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "x",
+  "pass": "xssxqxxxsxkzx"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "d",
+  "pass": "dnpfhsdmrxbvgxqrs"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "r",
+  "pass": "vhrgcnxrvksg"
+ },
+ {
+  "min": 8,
+  "max": 10,
+  "char": "c",
+  "pass": "ccccccctzv"
+ },
+ {
+  "min": 16,
+  "max": 17,
+  "char": "l",
+  "pass": "lllllllllllllllhl"
+ },
+ {
+  "min": 6,
+  "max": 15,
+  "char": "n",
+  "pass": "nnnnnnngnnfhwwzsnnn"
+ },
+ {
+  "min": 6,
+  "max": 19,
+  "char": "z",
+  "pass": "zzzzzlzzzzzzzzzzzjv"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "b",
+  "pass": "bxfbbwsjtbbvbqvbmbpb"
+ },
+ {
+  "min": 5,
+  "max": 14,
+  "char": "g",
+  "pass": "gggcjggggggggmgg"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "d",
+  "pass": "wdddddkdpd"
+ },
+ {
+  "min": 4,
+  "max": 17,
+  "char": "x",
+  "pass": "xtxxxxxxxxxxxxxxmkx"
+ },
+ {
+  "min": 4,
+  "max": 10,
+  "char": "c",
+  "pass": "cccccccccjcscv"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "v",
+  "pass": "ttjzfjldvvmswpqt"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "r",
+  "pass": "tjrwhzgfrkgfq"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "m",
+  "pass": "cvhsmnzmncsfmbqmm"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "z",
+  "pass": "krctfpzz"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "w",
+  "pass": "mlnlswvh"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "t",
+  "pass": "zrntxzttqlthfdttt"
+ },
+ {
+  "min": 1,
+  "max": 8,
+  "char": "r",
+  "pass": "pkcsjkrrrzxxsfnjw"
+ },
+ {
+  "min": 5,
+  "max": 15,
+  "char": "p",
+  "pass": "xbhpkpnngpqvpcwdppg"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "t",
+  "pass": "tttt"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "j",
+  "pass": "wjjjmjjjjjqp"
+ },
+ {
+  "min": 8,
+  "max": 14,
+  "char": "h",
+  "pass": "gjslnklhhkhthxh"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "q",
+  "pass": "qqlqqq"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "p",
+  "pass": "pppgppppppppppp"
+ },
+ {
+  "min": 7,
+  "max": 11,
+  "char": "l",
+  "pass": "llhllllrllllxldllll"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "d",
+  "pass": "lddkdddddddddd"
+ },
+ {
+  "min": 4,
+  "max": 12,
+  "char": "z",
+  "pass": "zwlzzqsvvclw"
+ },
+ {
+  "min": 15,
+  "max": 18,
+  "char": "c",
+  "pass": "tflkxflqccwkmlckck"
+ },
+ {
+  "min": 8,
+  "max": 12,
+  "char": "h",
+  "pass": "hhhhrhhhhfwhhh"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "r",
+  "pass": "rrrmrjrrvkrrjrdr"
+ },
+ {
+  "min": 8,
+  "max": 19,
+  "char": "k",
+  "pass": "tmdlkcktbkkskvkbkbz"
+ },
+ {
+  "min": 1,
+  "max": 13,
+  "char": "s",
+  "pass": "ssssssssssssss"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "v",
+  "pass": "xtcfvx"
+ },
+ {
+  "min": 1,
+  "max": 15,
+  "char": "s",
+  "pass": "shtssssswghsfsss"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "k",
+  "pass": "krkl"
+ },
+ {
+  "min": 7,
+  "max": 12,
+  "char": "q",
+  "pass": "dxqqqhqqqtqj"
+ },
+ {
+  "min": 1,
+  "max": 5,
+  "char": "r",
+  "pass": "rrrvvrrrr"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "t",
+  "pass": "ttrttftxztnhtvkcmtth"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "g",
+  "pass": "gngkcggrg"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "z",
+  "pass": "zzzzzzzzzzzbk"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "l",
+  "pass": "lslllc"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "t",
+  "pass": "pqchpk"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "h",
+  "pass": "hhhhml"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "h",
+  "pass": "qhhhhhhhhhhhhhhhhhmh"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "d",
+  "pass": "ddddfs"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "d",
+  "pass": "dthfdzddfnsdddm"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "d",
+  "pass": "ddddddddndhtddsdnddh"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "j",
+  "pass": "qjjjpjplljjc"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "q",
+  "pass": "qqqqqqq"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "b",
+  "pass": "bbbb"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "s",
+  "pass": "ssssjjs"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "b",
+  "pass": "bbbbfb"
+ },
+ {
+  "min": 7,
+  "max": 13,
+  "char": "m",
+  "pass": "cpvmbbnnrmzwf"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "f",
+  "pass": "fnhn"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "d",
+  "pass": "gdktlddrdlvmqdtddpzv"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "w",
+  "pass": "cwlww"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "z",
+  "pass": "zmdrgzlmzx"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "m",
+  "pass": "mjbjmmmlmmwxm"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "s",
+  "pass": "ssnhht"
+ },
+ {
+  "min": 8,
+  "max": 16,
+  "char": "t",
+  "pass": "tttttttdtttdtttjtt"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "z",
+  "pass": "wxgzhtswb"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "l",
+  "pass": "lllllblpllllchll"
+ },
+ {
+  "min": 4,
+  "max": 8,
+  "char": "g",
+  "pass": "vggqzvggnggggggggg"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "h",
+  "pass": "hhthkshhpnhqhgh"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "l",
+  "pass": "hglxklpl"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "w",
+  "pass": "mkmgkwzwmw"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "h",
+  "pass": "hhhhhrz"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "f",
+  "pass": "tdffff"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "l",
+  "pass": "lmfhgqschjqglrvwwnnz"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "g",
+  "pass": "gggggggggggfhggg"
+ },
+ {
+  "min": 2,
+  "max": 10,
+  "char": "m",
+  "pass": "ntmmmdjmmmsvmm"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "s",
+  "pass": "sqsssssssssss"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "f",
+  "pass": "frnthfcfxfft"
+ },
+ {
+  "min": 7,
+  "max": 16,
+  "char": "w",
+  "pass": "wwwwwwmwwnwwwwmk"
+ },
+ {
+  "min": 11,
+  "max": 13,
+  "char": "j",
+  "pass": "jjkjrjjjjjjjjjd"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "s",
+  "pass": "ssvc"
+ },
+ {
+  "min": 3,
+  "max": 13,
+  "char": "t",
+  "pass": "ddttttnnqpqztzbbdv"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "g",
+  "pass": "gggggg"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "r",
+  "pass": "rrrzlklfljqvz"
+ },
+ {
+  "min": 5,
+  "max": 12,
+  "char": "m",
+  "pass": "kdgmmrszqpfsbmz"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "g",
+  "pass": "gqgvzgxhgbtngxggh"
+ },
+ {
+  "min": 7,
+  "max": 16,
+  "char": "k",
+  "pass": "qqptmhhfkhsgkhbmkx"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "p",
+  "pass": "ppppptppp"
+ },
+ {
+  "min": 2,
+  "max": 17,
+  "char": "x",
+  "pass": "vxtxpvnxvlctrcpfxxx"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "w",
+  "pass": "bwmwjwwwwwtnqwxc"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "g",
+  "pass": "gggggg"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "z",
+  "pass": "znzwzzzs"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "v",
+  "pass": "kvvvv"
+ },
+ {
+  "min": 10,
+  "max": 14,
+  "char": "r",
+  "pass": "rrrrrrrrrbrrrx"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "t",
+  "pass": "xtttt"
+ },
+ {
+  "min": 4,
+  "max": 11,
+  "char": "w",
+  "pass": "wwwwwwdcmkrwx"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "c",
+  "pass": "ccccccjc"
+ },
+ {
+  "min": 12,
+  "max": 14,
+  "char": "w",
+  "pass": "wkwwwwwwwhwlwwwk"
+ },
+ {
+  "min": 5,
+  "max": 9,
+  "char": "s",
+  "pass": "hmssssssssss"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "r",
+  "pass": "rrrjsh"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "m",
+  "pass": "mmmmmmmmmmmmmx"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "s",
+  "pass": "sshsvssss"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "l",
+  "pass": "xllwnshchfdfk"
+ },
+ {
+  "min": 16,
+  "max": 18,
+  "char": "w",
+  "pass": "wwpwwpwwwmwwzwwtwwww"
+ },
+ {
+  "min": 2,
+  "max": 9,
+  "char": "c",
+  "pass": "zsfgbrrprlszrr"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "n",
+  "pass": "thnmfndnnbnnbhnnnn"
+ },
+ {
+  "min": 13,
+  "max": 14,
+  "char": "v",
+  "pass": "vvvcvvvvvvvvvvv"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "n",
+  "pass": "rwcm"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "t",
+  "pass": "tttttztttttttpjt"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "j",
+  "pass": "jjjjwhjdj"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "f",
+  "pass": "fffffffm"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "z",
+  "pass": "zzqzzzz"
+ },
+ {
+  "min": 12,
+  "max": 19,
+  "char": "j",
+  "pass": "kjrfnsjnhjdzgqpcjzvh"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "p",
+  "pass": "pxpdvcqdptxpvk"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "c",
+  "pass": "wccqj"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "w",
+  "pass": "pwsqhwjdhcm"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "b",
+  "pass": "bfbn"
+ },
+ {
+  "min": 10,
+  "max": 19,
+  "char": "q",
+  "pass": "qqqqqqqqqtqqqsqrqqq"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "p",
+  "pass": "pppppppppppppppp"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "g",
+  "pass": "rjghslgbggkgjdgvp"
+ },
+ {
+  "min": 3,
+  "max": 9,
+  "char": "z",
+  "pass": "fnnfzzdnf"
+ },
+ {
+  "min": 9,
+  "max": 16,
+  "char": "g",
+  "pass": "tlgtgggggggggggqm"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "r",
+  "pass": "rrrvccrrvbdbncrrr"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "v",
+  "pass": "jvhbv"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "v",
+  "pass": "vvvdvvcvvvpvvvvvvvv"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "g",
+  "pass": "ggggg"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "w",
+  "pass": "wwwwwwmpw"
+ },
+ {
+  "min": 4,
+  "max": 9,
+  "char": "s",
+  "pass": "gkxshzkpssc"
+ },
+ {
+  "min": 2,
+  "max": 8,
+  "char": "q",
+  "pass": "pqttnpqqqfwqs"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "n",
+  "pass": "nlnp"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "h",
+  "pass": "phhh"
+ },
+ {
+  "min": 16,
+  "max": 18,
+  "char": "g",
+  "pass": "hqsxhmmpfgggmgpqhrjg"
+ },
+ {
+  "min": 15,
+  "max": 17,
+  "char": "w",
+  "pass": "wwgwwwwwwwwwwwmwl"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "x",
+  "pass": "xxxxxxmxv"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "s",
+  "pass": "ssssssbs"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "x",
+  "pass": "dxlxxx"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "p",
+  "pass": "wpxppq"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "c",
+  "pass": "clcclcfcbccc"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "s",
+  "pass": "sbmst"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "d",
+  "pass": "xqmdn"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "z",
+  "pass": "zbzwfddkzzc"
+ },
+ {
+  "min": 18,
+  "max": 19,
+  "char": "d",
+  "pass": "dpdddddddddddddddwcv"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "r",
+  "pass": "rrrr"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "f",
+  "pass": "ffnffffwd"
+ },
+ {
+  "min": 12,
+  "max": 16,
+  "char": "h",
+  "pass": "hxnlxghzkpcpdhqqvl"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "m",
+  "pass": "jngclmm"
+ },
+ {
+  "min": 5,
+  "max": 13,
+  "char": "m",
+  "pass": "rmmmpmrmmmmmjmmmm"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "f",
+  "pass": "dfwfs"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "l",
+  "pass": "lclllwllll"
+ },
+ {
+  "min": 16,
+  "max": 18,
+  "char": "j",
+  "pass": "jjjjjjjjjjpjnjjgjbj"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "f",
+  "pass": "fffffffffffnfftfffff"
+ },
+ {
+  "min": 9,
+  "max": 13,
+  "char": "w",
+  "pass": "qbnpmklbwxdbbwkklpwb"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "j",
+  "pass": "mjkj"
+ },
+ {
+  "min": 1,
+  "max": 3,
+  "char": "h",
+  "pass": "hphwdh"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "x",
+  "pass": "vrxxb"
+ },
+ {
+  "min": 1,
+  "max": 15,
+  "char": "v",
+  "pass": "mvvvvvvvvvvvvvj"
+ },
+ {
+  "min": 8,
+  "max": 12,
+  "char": "v",
+  "pass": "lvzfvzvvnjtvvvvvv"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "g",
+  "pass": "gggvggggg"
+ },
+ {
+  "min": 13,
+  "max": 20,
+  "char": "l",
+  "pass": "zdllslnlxslqpnvgwlwm"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "l",
+  "pass": "lllhll"
+ },
+ {
+  "min": 3,
+  "max": 14,
+  "char": "k",
+  "pass": "kckzddtzbmvkpkhb"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "k",
+  "pass": "hbkgbxzj"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "p",
+  "pass": "lppp"
+ },
+ {
+  "min": 2,
+  "max": 11,
+  "char": "r",
+  "pass": "rrrrrbrrbrrrrwrrrwr"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "k",
+  "pass": "knkqkkk"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "r",
+  "pass": "njrrrrrrrr"
+ },
+ {
+  "min": 4,
+  "max": 7,
+  "char": "h",
+  "pass": "phhhnhdhc"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "r",
+  "pass": "nsnrrfktwbbhrrrh"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "q",
+  "pass": "qqzvzsvkq"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "b",
+  "pass": "jbbbbbbbkbgb"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "f",
+  "pass": "ffffcfffffgff"
+ },
+ {
+  "min": 12,
+  "max": 16,
+  "char": "v",
+  "pass": "vfvvqvvdvvvlhvzjvmzv"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "v",
+  "pass": "vvzvvtvvjgvv"
+ },
+ {
+  "min": 1,
+  "max": 7,
+  "char": "v",
+  "pass": "vvvvvvvv"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "z",
+  "pass": "zmncxhrdzdmtcbxtlrzq"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "r",
+  "pass": "rbfbrjrr"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "n",
+  "pass": "nnnnnnnnpnnldnn"
+ },
+ {
+  "min": 5,
+  "max": 12,
+  "char": "j",
+  "pass": "jjjjjjjjjjjlj"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "s",
+  "pass": "sssfsgss"
+ },
+ {
+  "min": 13,
+  "max": 17,
+  "char": "h",
+  "pass": "hhhfhhhhhhhhvhhhhhhh"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "g",
+  "pass": "gggxkggggvg"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "b",
+  "pass": "hbbtb"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "t",
+  "pass": "tttttttttttttnb"
+ },
+ {
+  "min": 7,
+  "max": 14,
+  "char": "d",
+  "pass": "ddddddddddddddhdw"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "d",
+  "pass": "rbdddbdwmjdhmpdd"
+ },
+ {
+  "min": 7,
+  "max": 13,
+  "char": "s",
+  "pass": "kxpdntprmskcs"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "m",
+  "pass": "gmdmpj"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "j",
+  "pass": "jjjjjvjsj"
+ },
+ {
+  "min": 1,
+  "max": 14,
+  "char": "q",
+  "pass": "qmqqqntqcqxmqsqkqq"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "q",
+  "pass": "tqxqq"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "m",
+  "pass": "mmmxmmmvmmv"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "q",
+  "pass": "qqqqrqqw"
+ },
+ {
+  "min": 5,
+  "max": 15,
+  "char": "d",
+  "pass": "dqdddddddddddvspd"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "t",
+  "pass": "tttttt"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "z",
+  "pass": "dhzzxwfjgnzhzxt"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "v",
+  "pass": "kdnmfnmqvvdvqdlvk"
+ },
+ {
+  "min": 16,
+  "max": 18,
+  "char": "s",
+  "pass": "sssssssssssssssjstss"
+ },
+ {
+  "min": 2,
+  "max": 5,
+  "char": "c",
+  "pass": "ccwdccc"
+ },
+ {
+  "min": 3,
+  "max": 11,
+  "char": "x",
+  "pass": "nxjxxxxxxxxxxx"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "v",
+  "pass": "vvvvfvvqvlvvvvvv"
+ },
+ {
+  "min": 4,
+  "max": 11,
+  "char": "s",
+  "pass": "sssszssnqjsbsvs"
+ },
+ {
+  "min": 9,
+  "max": 18,
+  "char": "j",
+  "pass": "gxhjjjjjnjjsjjjrjjjj"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "t",
+  "pass": "ttfttt"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "s",
+  "pass": "qzgxjhpsss"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "q",
+  "pass": "qqqqnrtxrqqsqqq"
+ },
+ {
+  "min": 6,
+  "max": 13,
+  "char": "k",
+  "pass": "kkkrgspkkkpwjshmk"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "h",
+  "pass": "xhhhmhbhhhdhh"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "g",
+  "pass": "gfgggggjgggggggggg"
+ },
+ {
+  "min": 13,
+  "max": 15,
+  "char": "z",
+  "pass": "zzfzzszzzzzzvzzzhzw"
+ },
+ {
+  "min": 5,
+  "max": 15,
+  "char": "m",
+  "pass": "mzrmmmmndchfzmmrr"
+ },
+ {
+  "min": 5,
+  "max": 10,
+  "char": "z",
+  "pass": "zzzzzzmzzh"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "s",
+  "pass": "wscfc"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "m",
+  "pass": "kmmtmm"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "h",
+  "pass": "hhhhchh"
+ },
+ {
+  "min": 4,
+  "max": 14,
+  "char": "w",
+  "pass": "wwgwwwqwsfrjvmbwj"
+ },
+ {
+  "min": 2,
+  "max": 9,
+  "char": "v",
+  "pass": "vwvvwvmjcqnxv"
+ },
+ {
+  "min": 9,
+  "max": 10,
+  "char": "x",
+  "pass": "qxxhfxchrx"
+ },
+ {
+  "min": 17,
+  "max": 18,
+  "char": "x",
+  "pass": "xxxxxxxxxxxxxxxxwp"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "v",
+  "pass": "vvvvvtv"
+ },
+ {
+  "min": 11,
+  "max": 14,
+  "char": "l",
+  "pass": "lcqlclllllrlddxlzll"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "r",
+  "pass": "trrn"
+ },
+ {
+  "min": 10,
+  "max": 13,
+  "char": "h",
+  "pass": "thnsxphnfgvhvq"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "s",
+  "pass": "sssssssssshsss"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "z",
+  "pass": "rqpzszzmzdz"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "q",
+  "pass": "qrqqqq"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "h",
+  "pass": "hhkhhhh"
+ },
+ {
+  "min": 8,
+  "max": 16,
+  "char": "h",
+  "pass": "wqhjvhlgwtsgvlpf"
+ },
+ {
+  "min": 3,
+  "max": 6,
+  "char": "f",
+  "pass": "gqfpcfsfhfjgrbqv"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "l",
+  "pass": "lqllsrjlv"
+ },
+ {
+  "min": 6,
+  "max": 10,
+  "char": "v",
+  "pass": "vvvvvvkvjv"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "t",
+  "pass": "gtttcbnkxxstttd"
+ },
+ {
+  "min": 2,
+  "max": 6,
+  "char": "j",
+  "pass": "jjjjbjz"
+ },
+ {
+  "min": 10,
+  "max": 15,
+  "char": "j",
+  "pass": "ftwjtfzjmjsvwjj"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "d",
+  "pass": "ddsksddddzfd"
+ },
+ {
+  "min": 2,
+  "max": 3,
+  "char": "b",
+  "pass": "bhngbb"
+ },
+ {
+  "min": 14,
+  "max": 16,
+  "char": "c",
+  "pass": "mllmcbfxwxrqlcjcw"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "q",
+  "pass": "qqqqqqdv"
+ },
+ {
+  "min": 5,
+  "max": 6,
+  "char": "s",
+  "pass": "slkzlfvg"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "q",
+  "pass": "qqqqq"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "p",
+  "pass": "pddpdpszrppxcpjgv"
+ },
+ {
+  "min": 11,
+  "max": 18,
+  "char": "r",
+  "pass": "rrrrrrrrrrprqrrrrr"
+ },
+ {
+  "min": 3,
+  "max": 4,
+  "char": "c",
+  "pass": "cscckcxcn"
+ },
+ {
+  "min": 11,
+  "max": 13,
+  "char": "g",
+  "pass": "gvgwmlngggqggrtgtkg"
+ },
+ {
+  "min": 5,
+  "max": 7,
+  "char": "b",
+  "pass": "smfpbbb"
+ },
+ {
+  "min": 7,
+  "max": 18,
+  "char": "l",
+  "pass": "sqmlklvkqfjrgtqhzr"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "k",
+  "pass": "kkpqqfgz"
+ },
+ {
+  "min": 7,
+  "max": 9,
+  "char": "n",
+  "pass": "fnndnnxnndn"
+ },
+ {
+  "min": 11,
+  "max": 12,
+  "char": "c",
+  "pass": "ccccccccccxv"
+ },
+ {
+  "min": 6,
+  "max": 9,
+  "char": "d",
+  "pass": "dddvdddddddvd"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "v",
+  "pass": "nvjfv"
+ },
+ {
+  "min": 3,
+  "max": 8,
+  "char": "g",
+  "pass": "gggggggg"
+ },
+ {
+  "min": 6,
+  "max": 7,
+  "char": "x",
+  "pass": "xxxxxxx"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "c",
+  "pass": "scccc"
+ },
+ {
+  "min": 6,
+  "max": 13,
+  "char": "q",
+  "pass": "nchlfqqqlqnqqqtq"
+ },
+ {
+  "min": 1,
+  "max": 8,
+  "char": "r",
+  "pass": "srrrrrrnrrrrrrr"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "p",
+  "pass": "sdpscpppp"
+ },
+ {
+  "min": 9,
+  "max": 11,
+  "char": "r",
+  "pass": "rrrdrkrrrqg"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "m",
+  "pass": "xwmscmmm"
+ },
+ {
+  "min": 7,
+  "max": 11,
+  "char": "r",
+  "pass": "rrrfrrrrkfrvrf"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "b",
+  "pass": "bbfbbb"
+ },
+ {
+  "min": 4,
+  "max": 9,
+  "char": "v",
+  "pass": "rblrvrvpvz"
+ },
+ {
+  "min": 2,
+  "max": 8,
+  "char": "w",
+  "pass": "wwwvwgwww"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "w",
+  "pass": "wwwwwwwwzw"
+ },
+ {
+  "min": 16,
+  "max": 18,
+  "char": "t",
+  "pass": "ttttttttttttttttttt"
+ },
+ {
+  "min": 8,
+  "max": 9,
+  "char": "n",
+  "pass": "nfrzsdjxr"
+ },
+ {
+  "min": 1,
+  "max": 2,
+  "char": "w",
+  "pass": "wwfwwmfbww"
+ },
+ {
+  "min": 2,
+  "max": 4,
+  "char": "s",
+  "pass": "dfsksft"
+ },
+ {
+  "min": 1,
+  "max": 13,
+  "char": "d",
+  "pass": "dwdrccnddqmndcl"
+ },
+ {
+  "min": 1,
+  "max": 4,
+  "char": "f",
+  "pass": "qfflf"
+ },
+ {
+  "min": 3,
+  "max": 7,
+  "char": "d",
+  "pass": "dnddjpdfgc"
+ },
+ {
+  "min": 3,
+  "max": 5,
+  "char": "l",
+  "pass": "lkglx"
+ },
+ {
+  "min": 1,
+  "max": 13,
+  "char": "j",
+  "pass": "jjjjgbjtpjjhd"
+ },
+ {
+  "min": 15,
+  "max": 16,
+  "char": "j",
+  "pass": "jjjjjjvjjjjjjjjjdjj"
+ },
+ {
+  "min": 4,
+  "max": 13,
+  "char": "t",
+  "pass": "tttxztttttttkt"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "m",
+  "pass": "mmmmm"
+ },
+ {
+  "min": 4,
+  "max": 6,
+  "char": "j",
+  "pass": "jgjrjwjfjx"
+ },
+ {
+  "min": 8,
+  "max": 11,
+  "char": "t",
+  "pass": "ttbjttvttsttdqtn"
+ },
+ {
+  "min": 14,
+  "max": 15,
+  "char": "w",
+  "pass": "wwwwwwwwwwwwwkjw"
+ },
+ {
+  "min": 1,
+  "max": 6,
+  "char": "x",
+  "pass": "nrscxn"
+ },
+ {
+  "min": 3,
+  "max": 13,
+  "char": "w",
+  "pass": "wwwwwvgnwbwwwwwwv"
+ },
+ {
+  "min": 12,
+  "max": 15,
+  "char": "p",
+  "pass": "pppppppppppjpppppppp"
+ },
+ {
+  "min": 5,
+  "max": 11,
+  "char": "v",
+  "pass": "vvvkvbvwkwnvvvsxvv"
+ },
+ {
+  "min": 1,
+  "max": 11,
+  "char": "m",
+  "pass": "mmmmmmmmmmtm"
+ },
+ {
+  "min": 10,
+  "max": 11,
+  "char": "c",
+  "pass": "cccccccccwc"
+ },
+ {
+  "min": 5,
+  "max": 8,
+  "char": "f",
+  "pass": "xvgstwfxfhxknds"
+ },
+ {
+  "min": 12,
+  "max": 13,
+  "char": "t",
+  "pass": "tttttztttttttt"
+ },
+ {
+  "min": 4,
+  "max": 17,
+  "char": "k",
+  "pass": "vkpkfkkkqnkqnkgkkknk"
+ },
+ {
+  "min": 9,
+  "max": 12,
+  "char": "k",
+  "pass": "kkwpzpdzxhxk"
+ },
+ {
+  "min": 14,
+  "max": 17,
+  "char": "v",
+  "pass": "fgvvvvvvvvvvvjpvv"
+ },
+ {
+  "min": 7,
+  "max": 8,
+  "char": "k",
+  "pass": "kndnqkkk"
+ },
+ {
+  "min": 7,
+  "max": 11,
+  "char": "c",
+  "pass": "gfcbccccjvcskcmrcxc"
+ },
+ {
+  "min": 4,
+  "max": 5,
+  "char": "n",
+  "pass": "ngtnr"
+ },
+ {
+  "min": 3,
+  "max": 12,
+  "char": "k",
+  "pass": "mtcfszkdhkdkd"
+ }
+]
